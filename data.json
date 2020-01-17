@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "",
+      "description": "",
+      "technologies": ["array of strings containing a list of the technologies used"],
+      "live_link": "",
+      "github_link": "",
+      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+    },
+    {
+      "id": 1,
+      "project_name": "",
+      "description": "",
+      "technologies": ["array of strings containing a list of the technologies used"],
+      "live_link": "",
+      "github_link": "",
+      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+    },
+    {
+      "id": 2,
+      "project_name": "",
+      "description": "",
+      "technologies": ["array of strings containing a list of the technologies used"],
+      "live_link": "",
+      "github_link": "",
+      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+    },
+    {
+      "id": 3,
+      "project_name": "",
+      "description": "",
+      "technologies": ["array of strings containing a list of the technologies used"],
+      "live_link": "",
+      "github_link": "",
+      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+    },
+    {
+      "id": 4,
+      "project_name": "",
+      "description": "",
+      "technologies": ["array of strings containing a list of the technologies used"],
+      "live_link": "",
+      "github_link": "",
+      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+    }
+  ]
+}
