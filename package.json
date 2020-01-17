@@ -1,0 +1,27 @@
+{
+  "name": "portfolio_website",
+  "version": "0.0.1",
+  "description": "Static Node.js and Express Site to showcase built projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewertonluna/portfolio_express_site.git"
+  },
+  "keywords": [
+    "portfolio",
+    "express"
+  ],
+  "author": "Ewerton Luna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewertonluna/portfolio_express_site/issues"
+  },
+  "homepage": "https://github.com/ewertonluna/portfolio_express_site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
