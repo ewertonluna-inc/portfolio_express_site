@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+// projects will be an array of project objects
 const { projects } = require('../data.json');
 
 
