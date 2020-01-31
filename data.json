@@ -2,47 +2,47 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "",
-      "description": "",
-      "technologies": ["array of strings containing a list of the technologies used"],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Random Quote Generator",
+      "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["Frontend JavaScript", "CSS", "HTML"],
+      "live_link": " https://ewertonluna.github.io/techdegree_project_1/",
+      "github_link": "https://github.com/ewertonluna/techdegree_project_1",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
     },
     {
       "id": 1,
-      "project_name": "",
-      "description": "",
-      "technologies": ["array of strings containing a list of the technologies used"],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "List Pagination and Filtering",
+      "description": "A page that contains a number of student names, photos and email addresses. The page displays 10 names at a time (max), a navigation system, a series of links at the bottom of the page to let users click through the other student entries",
+      "technologies": ["Frontend Javascript", "CSS", "HTML"],
+      "live_link": "https://ewertonluna.github.io/techdegree_project_2/",
+      "github_link": "https://github.com/ewertonluna/techdegree_project_2",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
     },
     {
       "id": 2,
-      "project_name": "",
-      "description": "",
-      "technologies": ["array of strings containing a list of the technologies used"],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Interactive Form",
+      "description": "A registration form for a fictional conference called 'FullStack Conf'.",
+      "technologies": ["jQuery", "CSS", "HTML"],
+      "live_link": "https://ewertonluna.github.io/techdegree_project_3/",
+      "github_link": "https://github.com/ewertonluna/techdegree_project_3",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
     },
     {
       "id": 3,
-      "project_name": "",
-      "description": "",
-      "technologies": ["array of strings containing a list of the technologies used"],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "OOP Game Show App",
+      "description": "A word guessing game called 'Phrase Hunter' using Object Oriented Programming to select a random, hidden phrase, which a player tries to guess by clicking letters on an onscreen keyboard",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://ewertonluna.github.io/techdegree_project_4/",
+      "github_link": "https://github.com/ewertonluna/techdegree_project_4",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
     },
     {
       "id": 4,
-      "project_name": "",
-      "description": "",
-      "technologies": ["array of strings containing a list of the technologies used"],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Public API Requests",
+      "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+      "technologies": ["Ajax", "CSS","HTML"],
+      "live_link": "https://ewertonluna.github.io/techdegree_project_5/",
+      "github_link": "https://github.com/ewertonluna/techdegree_project_5",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
     }
   ]
