@@ -7,7 +7,7 @@
       "technologies": ["Frontend JavaScript", "CSS", "HTML"],
       "live_link": " https://ewertonluna.github.io/techdegree_project_1/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_1",
-      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+      "image_urls": ["/static/images/p1_display.png"]
     },
     {
       "id": 1,
