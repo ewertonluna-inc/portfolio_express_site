@@ -7,7 +7,7 @@
       "technologies": ["Frontend JavaScript", "CSS", "HTML"],
       "live_link": " https://ewertonluna.github.io/techdegree_project_1/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_1",
-      "image_urls": ["/static/images/p1_display.png"]
+      "image_urls": ["/static/images/p1_landingPage.png", "/static/images/p1_display1.png", "/static/images/p1_display2.png", "/static/images/p1_display3.png"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["Frontend Javascript", "CSS", "HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_2/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_2",
-      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+      "image_urls": ["/static/images/p2_landingPage.png", "/static/images/p2_display1.png"]
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "technologies": ["jQuery", "CSS", "HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_3/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_3",
-      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+      "image_urls": ["/static/images/p3_landingPage.png", "/static/images/p3_display1.png"]
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "technologies": ["JavaScript", "CSS", "HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_4/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_4",
-      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+      "image_urls": ["/static/images/p4_landingPage.png", "/static/images/p4_display1.png", "/static/images/p4_display2.png", "/static/images/p4_display3.png"]
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "technologies": ["Ajax", "jQuery", "CSS","HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_5/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_5",
-      "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
+      "image_urls": ["/static/images/p5_landingPage.png", "/static/images/p5_display1.png"]
     }
   ]
 }
