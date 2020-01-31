@@ -40,7 +40,7 @@
       "id": 4,
       "project_name": "Public API Requests",
       "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
-      "technologies": ["Ajax", "CSS","HTML"],
+      "technologies": ["Ajax", "jQuery", "CSS","HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_5/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_5",
       "image_urls": ["array of strings containing file paths form the views folder to the images themselves"]
