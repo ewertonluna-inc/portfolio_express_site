@@ -4,4 +4,7 @@
  The goal of this project is to create a portfolio site to showcase other projects built so far since I started studying Full Stack JavaScript development. <br>
  On the main page, there are thumbnails for each project that link to the project's page.<br>
  On the project's pages, you will find a live link to test out the application and also the github repo.<br>
+ There's also a 'about' page where you will find some info about my self.
 
+### Backend JavaScript practice
+ After completing this project I feel more comfortable with my working knowledge of Node.js, Express, Pug, handling requests and working with server-side JavaScript.
