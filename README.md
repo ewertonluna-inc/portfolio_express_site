@@ -15,4 +15,4 @@
   - Use error handling middleware to render a Pug template.
   - Customize style.
     - I added 2 extra CSS Rules to the style.css file. They are at the bottom of the file, nammed ".extra1" and ".extra2".
-    - The added styles changes the background, the border radius and the padding of the "LEARN MORE" text. The other style will change the background color of the project's names when the mouse hovers over it.
+    - The added styles changes the background, the border radius and the padding of the "LEARN MORE" text. The other style will change the background color of the project's names when the mouse hovers over them.
