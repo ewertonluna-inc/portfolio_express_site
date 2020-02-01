@@ -7,7 +7,7 @@ app.use('/static', express.static('public'));
 const mainRoutes = require('./routes/main');
 const projectRoutes = require('./routes/projects');
 app.use(mainRoutes);
-app.use('/project', projectRoutes);
+app.use('/projects', projectRoutes);
 
 
 // If no routes matched, then create a 404 error
@@ -21,7 +21,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) =>{
   res.status(err.status);
   console.log(`Error: ` + err.message);
-  res.send('Error: ' + err.message);
+  res.render('error', {error: err});
 });
 
 app.listen(3000, () => {

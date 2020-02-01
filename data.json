@@ -3,7 +3,7 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+      "description": "A program that displays a randomly selected quote each time the user clicks a button. It was a fun and effective way to practice some basic JavaScript skills while also creating a simple interactive portfolio piece.",
       "technologies": ["Frontend JavaScript", "CSS", "HTML"],
       "live_link": " https://ewertonluna.github.io/techdegree_project_1/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_1",
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "A registration form for a fictional conference called 'FullStack Conf'.",
+      "description": "A registration form for a fictional conference called 'FullStack Conf'. This was tremendously valuable since forms are a major aspect of most web sites and web applications.",
       "technologies": ["jQuery", "CSS", "HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_3/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_3",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "project_name": "OOP Game Show App",
-      "description": "A word guessing game called 'Phrase Hunter' using Object Oriented Programming to select a random, hidden phrase, which a player tries to guess by clicking letters on an onscreen keyboard",
+      "description": "A word guessing game called 'Phrase Hunter' using Object Oriented Programming to select a random, hidden phrase, which a player tries to guess by clicking letters on an onscreen keyboard. Each time the player guesses a letter, the program compares the latter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on screen. Otherwise, the player loses one heart icon until the game is either a win or a loss.",
       "technologies": ["JavaScript", "CSS", "HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_4/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_4",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+      "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. The application uses the Random User Generator API to grab information for 12 random 'employees' and it uses that data to build a prototype for the startup employee directory.",
       "technologies": ["Ajax", "jQuery", "CSS","HTML"],
       "live_link": "https://ewertonluna.github.io/techdegree_project_5/",
       "github_link": "https://github.com/ewertonluna/techdegree_project_5",
