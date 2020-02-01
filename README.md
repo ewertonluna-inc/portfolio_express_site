@@ -7,4 +7,12 @@
  There's also a 'about' page where you will find some info about my self.
 
 ### Backend JavaScript practice
- After completing this project I feel more comfortable with my working knowledge of Node.js, Express, Pug, handling requests and working with server-side JavaScript.
+ After completing this project I feel more comfortable with my working knowledge of Node.js, Express, Pug, handling requests, and working with server-side JavaScript.
+
+### Exceeds Expectations Grade
+  In order to get the Exceeds Expectations grade, I completed the following tasks:
+  - Set up the package.json file so that running npm start will run the app.
+  - Use error handling middleware to render a Pug template.
+  - Customize style.
+    - I added 2 extra CSS Rules to the style.css file. They are at the bottom of the file, nammed ".extra1" and ".extra2".
+    - The added styles changes the background, the border radius and the padding of the "LEARN MORE" text. The other style will change the background color of the project's names when the mouse hovers over it.
