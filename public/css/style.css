@@ -148,3 +148,17 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.extra1{
+  background-color: cadetblue;
+  padding: 5px;
+  border-radius: 7%;
+}
+
+.extra2{
+  color: darkslategray;
+}
+
+.extra2:hover{
+  background-color: aliceblue;
+}
