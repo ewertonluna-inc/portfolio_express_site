@@ -20,7 +20,7 @@ block content
             li= technology
 
         a.button.expanded(href=`${project.live_link}` target='_blank') Live Demo
-        a.button.expanded(href=`${project.github_link}`) GitHub Repo
+        a.button.expanded(href=`${project.github_link}` target='_blank') GitHub Repo
     
     each url in project.image_urls
       img.image(src=`${url}`)
